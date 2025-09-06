@@ -1,2 +1,2 @@
 # chatbot-demo-1
-an demo chatbot using ollama
+This is a demo of chatbot which i have created using ollama 3.
